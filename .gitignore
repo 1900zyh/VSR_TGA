@@ -1,0 +1,9 @@
+result/
+log/
+__pycache__ 
+*.pth 
+*.png 
+*.mov 
+*.mp4
+
+debug*
